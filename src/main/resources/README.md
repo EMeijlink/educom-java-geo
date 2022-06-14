@@ -1,0 +1,1 @@
+Lokatie for images, icons etc.
